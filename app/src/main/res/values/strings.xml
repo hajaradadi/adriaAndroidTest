@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="app_name">Adria Test</string>
+<string name="contactslabel">List des contactes</string>
+<string name="hello">Adria</string>
+<string name="notConnected">Se Connecter</string>
+</resources>
+
+    <!--<resources>
+        <string name="app_name">AdriaG</string>
+        <string name="contactslabel">ContctList</string>
+        <string name="hello">Hello</string>
+        <string name="notConnected">Click Sign in</string>
+    </resources>-->
